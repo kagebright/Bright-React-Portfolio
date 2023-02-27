@@ -1,9 +1,9 @@
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
-import Home from './pages/Home';
-import About from './pages/About';
-import Contact from './pages/Contact';
-import Portfolio from './pages/Portfolio';
-import Resume from './pages/Resume'; 
+import Home from './components/Home';
+import About from './components/About';
+import Contact from './components/Contact';
+import Portfolio from './components/Portfolio';
+import Resume from './components/Resume'; 
 import Navigation from './components/Navigation';
 import Footer from './components/Footer';
 import './app.css';
