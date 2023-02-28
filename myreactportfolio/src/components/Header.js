@@ -14,7 +14,13 @@ function Header() {
             <Link to="/about" className="nav__link">About</Link>
           </li>
           <li className="nav__item">
+            <Link to="/portfolio" className="nav__link">Portfolio</Link>
+          </li>
+          <li className="nav__item">
             <Link to="/contact" className="nav__link">Contact</Link>
+          </li>
+          <li className="nav__item">
+            <Link to="/resume" className="nav__link">Resume</Link>
           </li>
         </ul>
       </nav>
