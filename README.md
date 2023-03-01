@@ -26,6 +26,8 @@ To run the app locally, you need to have Node.js and Git installed on your machi
 - HTML
 - JavaScript
 
-### [Deployed Application]():My React Portfolio
+### Links
+- [GitHub repo](https://github.com/kagebright/Bright-React-Portfolio)
+- [Deployed Application]()
 
 ## Screenshots
