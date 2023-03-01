@@ -28,6 +28,11 @@ To run the app locally, you need to have Node.js and Git installed on your machi
 
 ### Links
 - [GitHub repo](https://github.com/kagebright/Bright-React-Portfolio)
-- [Deployed Application]()
+- Deployed Application:[My React Portfolio](https://kagebright.github.io/Bright-React-Portfolio/)
 
 ## Screenshots
+
+
+
+## License:
+  ![MIT](https://img.shields.io/badge/license-MIT-blue)
